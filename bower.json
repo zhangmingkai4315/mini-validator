@@ -1,0 +1,14 @@
+{
+  "name": "mini-validator",
+  "main": "mini-validator.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/zhangmingkai4315/mini-validator",
+  "authors": [
+    "zhangmingkai4315 <zhangmingkai19892013@gmail.com>"
+  ],
+  "description": "mini size validator:For user login information validat only(username email password,confirmation,etc.)",
+  "keywords": [
+    "validator"
+  ],
+  "license": "MIT"
+}

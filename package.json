@@ -1,0 +1,22 @@
+{
+  "name": "mini-validator",
+  "version": "1.0.0",
+  "description": "mini size validator:For user login information validat only(username email password,confirmation,etc.)",
+  "main": "mini-validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangmingkai4315/mini-validator.git"
+  },
+  "keywords": [
+    "validator"
+  ],
+  "author": "mingkai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangmingkai4315/mini-validator/issues"
+  },
+  "homepage": "https://github.com/zhangmingkai4315/mini-validator"
+}
