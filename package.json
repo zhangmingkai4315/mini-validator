@@ -1,6 +1,6 @@
 {
   "name": "mini-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mini size validator:For user login information validat only(username email password,confirmation,etc.)",
   "main": "mini-validator.js",
   "scripts": {
