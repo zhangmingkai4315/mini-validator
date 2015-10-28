@@ -11,7 +11,9 @@
     "url": "https://github.com/zhangmingkai4315/mini-validator.git"
   },
   "keywords": [
-    "validator"
+    "validator",
+    "validate",
+    "valid"
   ],
   "author": "mingkai",
   "license": "MIT",

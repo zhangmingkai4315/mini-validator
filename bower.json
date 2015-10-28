@@ -8,7 +8,9 @@
   ],
   "description": "mini size validator:For user login information validat only(username email password,confirmation,etc.)",
   "keywords": [
-    "validator"
+    "validator",
+    "validate",
+    "valid"
   ],
   "license": "MIT"
 }
