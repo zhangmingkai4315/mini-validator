@@ -25,6 +25,8 @@ Mini-validator is a mini size validator for user login information validation. i
 
 In server side ,if you define like "var validator=require("mini-validator");", you need use validator.isMaxLength(...); But in front-end side ,validator is a global object ,just validator.isMaxLength(...) is enough!
 
+All return value is bool type:true for validate pass!
+
 1. isMaxLength(TestData,max_length,min_length=0)
 2. isMinLength(TestData,min_length)
 3. isNumber(TestData)
