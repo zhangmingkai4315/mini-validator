@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Test Client-Side</title>
+    <script type="text/javascript" src="../mini-validator.js">
+    </script>
+    <script>
+        var TestData="123456",
+            TestData2="abcde",
+            TestData3="abc123",
+            TestData4="abc123_";
+        var urlData="http://www.jsmean.com",
+            emailData="test@jsmean.com";
+        console.log(validator.isMaxLength(TestData,10)===true);
+        console.log(validator.isMinLength(TestData,4)===true);
+        console.log(validator.isNumber(TestData)===true);
+        console.log(validator.isAlpha(TestData2)===true);
+        console.log(validator.isAlphaNumber(TestData3)===true);
+        console.log(validator.isAlphaNumberWithDash(TestData4)===true);
+        console.log(validator.isUrl(urlData)===true);
+        console.log(validator.isEmail(emailData)===true);
+    </script>
+  </head>
+  <body>
+
+  </body>
+</html>
